@@ -23,6 +23,7 @@ string solution(string number, int k)
         if (!deleteCheck)
             number.erase(number.size() - 1, 1);
     }
+    
     return answer = number;
 }
 
